@@ -13,7 +13,7 @@
     },
     "require":
     {
-        "php": "^5.4 || ^7.0",
+        "php": "^5.4 || ^8.0",
         "voku/portable-utf8": "^3.0",
         "icecave/parity": "^1.0"
     },
